@@ -1,0 +1,28 @@
+name: We Are One
+favicon: null
+layout_spectrum: 0.3907289607450366
+typography_spectrum: 0.7371777216903865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.36808237340301275
+  lightness: 0.9945069514214993
+  saturation: 0.7260308736003935
+  rhythmicContrast: 0.9950158563442528
+purpose: []
